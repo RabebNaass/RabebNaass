@@ -7,7 +7,7 @@ I'm a software engineering student at INSAT, Tunisia. I'm passionate about build
 ## 🔧 What I Work With
 
 - **Languages:** Python, TypeScript, Java, C/C++, Prolog, JavaScript, PHP
-- **Frameworks:** React, NestJS, Angular, .NET, Symfony
+- **Développement web:** React, NestJS, Angular, .NET, Symfony
 - **Devops:** Docker, Jenkins, Terraform, Prometheus, Grafana, AWS
 - **Data & AI:** NLP, Transformers, GenAI, LLMs, Spark, Pandas, Scikit-learn, TensorFlow
 - **Others:** Git, Postman, Linux, VS Code
